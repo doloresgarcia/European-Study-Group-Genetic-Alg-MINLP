@@ -1,0 +1,27 @@
+1.
+* changed "road" on I330 from A7 to A8
+
+2.
+* removed several nodes
+** I226, I229, I231, I233, I235
+** on the south coast near Marbelle
+** the route there is divided into two roads
+** this was now reduced to one route
+
+3.
+* deleted I56 to I63
+** loop near Barcelona
+** kept the more interesting road
+** now the road is I54 -> I55 -> I64 -> I65
+
+4.
+* deleted I284, I285, I286
+** on the south eastern coast, near Cartagena
+** the nodes created a weird curve in the road
+** can be omitted because probably no stations are needed so close to Cartagena
+
+5.
+* removed I293 and I294
+** on the East Coast in the middle, north of Cartagena
+** they loop weirdly
+** now the road is I292 -> I295
