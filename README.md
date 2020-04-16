@@ -16,7 +16,12 @@ Goal:
 - The optimization problem formulated falls in the class of nonlinear integer programming (INLP) problems. 
 The goal is to apply the genetic algorithm to both single and multi-objective cost functions. 
 
+The final solution for the country of Spain is as follows. Where different colours represent the different stations, which differ on charching time and price:
+
+![Result](https://github.com/doloresgarcia/European-Study-Group-Genetic-Alg-MINLP/blob/master/Results_images/FinalMapSolution.jpg)
+
+This represents one of the possible solutions of the Pareto front. Here we present an example of it for different roads:
+![Pareto Front](https://github.com/doloresgarcia/European-Study-Group-Genetic-Alg-MINLP/blob/master/Results_images/ParetoFrontEx.jpg)
 
 
-![Result](https://github.com/doloresgarcia/European-Study-Group-Genetic-Alg-MINLP/blob/master/map_general.jpg)
 
